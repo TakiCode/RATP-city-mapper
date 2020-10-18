@@ -12,4 +12,4 @@
   Exemple 2 : ./Ratp_Dijkstra s.csv c.csv Jussieu Bastille            
 
 
-For more details about the project check the report or contact me at takisoualhi@gmail.com
+For more details about this app check the report or contact me at takisoualhi@gmail.com
