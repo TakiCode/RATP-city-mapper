@@ -4,7 +4,7 @@
 //                         ******* Sorbonne Université ******                                       //
 //          Projet C++: Application RATP avec l'algorithme de recherche Dijkstra                    //
 //                                                                                                  //   
-//                         Nom: Bouchakour - Prénom: Lotfi                                          //                                                                                                          // 
+//                         Nom: SOUALHI , Prénom Takieddine                                  //                                                                                                          // 
 //                         Professeur Encadrant :  Vincent Fraillon Maison                          //   
 //                                                                                                  //
 //                                                                                                  // 
